@@ -9,7 +9,7 @@ networks](https://arxiv.org/abs/2030.12345). The codes are divided into two part
 
 ## BNN Training
 
-To train a BNN, implement [training.ipynb](./training.ipynb) using Jupyter Notebook or Google Colab Notebook. You can also download the weights for pretrained models [here](//weights _for_trained_BNN) trained on MNST. The accuracy of the trained BNN for each configuration is also provided in the file accuracy.txt.
+To train a BNN, implement [training.ipynb](./training.ipynb) using Jupyter Notebook or Google Colab Notebook. You can also download the weights for pretrained models [here](./weights _for_trained_BNN.zip) trained on MNST. The accuracy of the trained BNN for each configuration is also provided in the file accuracy.txt.
 
 ## BNN Robustness Verifying
 
